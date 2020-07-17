@@ -32,14 +32,18 @@
 
 ## Dominio
 - usar el dominio del servicio
-  - Photomat.github.io
+  - [Photomat.github.io](Photomat.github.io)
+    - Photomat.github.io/tools
+    - Photomat.github.io/informes
+    - Photomat.github.io/*
+
 - propio
   - comprar
     - [ContaminantesAmbientales.ar](https://contaminantesambientales.ar)
       - ContaminantesAmbientales.ar/escuelas
       - ContaminantesAmbientales.ar/rurales
       - ContaminantesAmbientales.ar/*
-      
+
   - institucional
     - monitoreo.ing.unrc.edu.ar
       - monitoreo.ing.unrc.edu.ar/metricas
@@ -47,11 +51,10 @@
       - monitoreo.ing.unrc.edu.ar/*
 
 - subdominio
-  - ciap.org.ar
-    - escuelas.ciap.org.ar
-    - instituciones.ciap.org.ar
-    - metricas.ciap.org.ar
-    - *.ciap.org.ar
+  - monitoreo.ing.unrc.edu.ar
+      - metricas.monitoreo.ing.unrc.edu.ar
+      - series.monitoreo.ing.unrc.edu.ar
+      - *.monitoreo.ing.unrc.edu.ar
 
 ## GitHub
 - usuario
