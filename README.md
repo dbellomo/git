@@ -69,3 +69,7 @@
 - Repo
   - readme.md
 - [GitHub Pages](https://pages.github.com)
+
+## GitKraken
+- https://support.gitkraken.com
+- https://support.gitkraken.com/integrations/github
